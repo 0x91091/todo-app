@@ -1,6 +1,6 @@
 # todo-app
 ## Live Link
-[https://n-todo-app.netlify.app/](https://n-todo-app.netlify.app/)
+[https://n-todo-app.heroku.app/](https://n-todo-app.heroku.app/)
 
 ## Getting Started
 To get you started you can simply clone the repository:
