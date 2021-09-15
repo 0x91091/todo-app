@@ -1,6 +1,6 @@
 # todo-app
 ## Live Link
-[https://eloraa.github.io/weather-app/](https://eloraa.github.io/weather-app/)
+[https://n-todo-app.netlify.app/](https://n-todo-app.netlify.app/)
 
 ## Getting Started
 To get you started you can simply clone the repository:
