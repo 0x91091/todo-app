@@ -29,4 +29,4 @@ First we need to create the `db` directory where the database files will live in
 
 The project is preconfigured with a simple development web server. The simplest way to start this server is:
 
-    npm start   
+    npm run dev   
